@@ -1,5 +1,13 @@
 # Install and Run
 
+Create a simple directory in your disk D
+Go to this directory
+git init
+git pull https://github.com/antonypjohnson/simple-dashboard.git
+npm i
+npm run dev
+enjoy 😃
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
